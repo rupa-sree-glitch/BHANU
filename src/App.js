@@ -16,8 +16,8 @@ const App = () => {
   return (
     <div>
       <HeroSection /> {/* Video Hero Section */}
-      <h1>🛒 Welcome to My Store</h1>
-      <ProductList products={data} />
+      <h1>Happy birthday baggy boi!!</h1>
+      //<ProductList products={data} />
     </div>
   );
 };
